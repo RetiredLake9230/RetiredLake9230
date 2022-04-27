@@ -7,4 +7,4 @@
 - 💬 Ask me about the GOMP
 - 📫 How to reach me: RetiredLake#9230 (imesages)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i made nothing
+- ⚡ Fun fact: i made the GOMP
