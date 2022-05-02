@@ -8,3 +8,4 @@
 - 📫 How to reach me: RetiredLake#9230 (discord)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i made the GOMP
+- 🐧️ I use Fedora Linux
